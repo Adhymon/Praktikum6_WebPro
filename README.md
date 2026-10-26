@@ -10,6 +10,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac1d64a1-2965-4c18-b4fd-950dc25ba3ae" />
 
 5. Output
+
 Ungu
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eac79353-1219-4537-9a4c-7483f2f1d77d" />
 Biru
